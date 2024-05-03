@@ -92,21 +92,6 @@ Use these files to complete the implementation:
 - `src/components/TransactionItem/index.css`
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The Balance Amount should have the data-testid as **balanceAmount**
-- The Income Amount should have the data-testid as **incomeAmount**
-- The Expenses Amount should have the data-testid as **expensesAmount**
-- The Delete button for each transaction should have the data-testid as **delete**
-
-</details>
 
 ### Resources
 
@@ -150,9 +135,4 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
